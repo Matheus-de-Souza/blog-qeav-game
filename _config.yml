@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Que é a Verdade"
-email: contato@emteuscaminhos.com.br
-description: "Este blog tem o intuito de mostrar o andamento do game Que É A Verdade. Um game que tem o objetivo de dar ao jogador a experiência de encontrar a verdade em meio ao caos de apocalipse de nossa civilização."
+email: mws.souza@gmail.com
+description: "Este blog tem o intuito de mostrar o andamento do game Que É A Verdade. Um game que tem o objetivo de dar ao jogador a experiência de encontrar a verdade em meio ao caos do apocalipse de nossa civilização."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://qeavgame.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mws_souza
+author: "Matheus de Souza"
+#twitter_username: mws_souza
 github_username:  "Matheus-de-Souza"
 
 # Build settings
@@ -32,7 +33,7 @@ highlighter: rouge
 permalink: /:year/:month/:title
 
 disqus:
-  shortname: que-e-a-verdade
+  shortname: qeav-game
 
 gems:
   - jekyll-feed
