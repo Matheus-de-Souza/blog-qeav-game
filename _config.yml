@@ -23,7 +23,7 @@ author: "Matheus de Souza"
 github_username:  "Matheus-de-Souza"
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 encoding: bom|utf-8
 
 markdown: kramdown
