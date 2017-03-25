@@ -21,7 +21,7 @@ Essa sugestão foi feita pelo orientador do TCC, Vinicíus Cassol, que à princ�
 
 Então, vamos lá, que asset revolucionário é esse?
 
-![Imagem 1 do asset do hospital]({{site.base_url}}/assets/img/asset-hospital-1.jpg)
+![Imagem 1 do asset do hospital]({{site.baseurl}}/assets/img/asset-hospital-1.jpg)
 
 Este asset eu encontrei fazendo uma busca na [Asset Store](https://assetstore.unity3d.com) nessa semana mesmo. Sem ele eu teria que modelar todos os cenários do projeto, o que me traria um graande trabalho.. Ainda mais que eu sou programador não designer 3d... Mas comprando este asset poderei investir meu tempo em outras necessidades do projeto. E foi isso o que eu fiz comprei ele e já estou testando o asset aqui no projeto. Gostei muito bem feito, porém penso que a escala é pequena. O autor poderia deixar ela um pouco maior e assim facilitar a integração com os outros modelos.
 

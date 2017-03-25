@@ -16,7 +16,7 @@
 title: "Que é a Verdade"
 email: mws.souza@gmail.com
 description: "Este blog tem o intuito de mostrar o andamento do game Que É A Verdade. Um game que tem o objetivo de dar ao jogador a experiência de encontrar a verdade em meio ao caos do apocalipse de nossa civilização."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog-qeav-game" # the subpath of your site, e.g. /blog
 url: "http://qeavgame.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 author: "Matheus de Souza"
 #twitter_username: mws_souza
