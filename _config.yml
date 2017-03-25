@@ -22,7 +22,7 @@ twitter_username: mws_souza
 github_username:  "Matheus-de-Souza"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 encoding: bom|utf-8
 
 markdown: kramdown
