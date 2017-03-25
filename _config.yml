@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Que é a Verdade
+title: "Que é a Verdade"
 email: contato@emteuscaminhos.com.br
-description: > Este blog tem o intuito de mostrar o andamento do game Que É A Verdade.
-  Um game que tem o objetivo de dar ao jogador a experiência de encontrar a verdade em meio ao caos de apocalipse de nossa civilização.
+description: "Este blog tem o intuito de mostrar o andamento do game Que É A Verdade. Um game que tem o objetivo de dar ao jogador a experiência de encontrar a verdade em meio ao caos de apocalipse de nossa civilização."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://qeavgame.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mws_souza
-github_username:  Matheus-de-Souza
+github_username:  "Matheus-de-Souza"
 
 # Build settings
 theme: minima
